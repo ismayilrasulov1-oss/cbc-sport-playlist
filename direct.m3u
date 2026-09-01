@@ -11,3 +11,9 @@ http://stream.mcquack.net/390/index.m3u8
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1,Setanta Sports 1
 http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1,Okko Sport 
+http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1,Okko Futbol
+http://stream.mcquack.net/491/index.m3u8
+#EXTINF:-1,Okko Prime Sport
+http://stream.mcquack.net/493/index.m3u8
