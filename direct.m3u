@@ -45,3 +45,5 @@ http://stream.mcquack.net/169/index.m3u8
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1,Match Futbol 1
 http://stream.mcquack.net/130/index.m3u8
+#EXTINF:-1,Qazsport
+http://stream.mcquack.net/72/index.m3u8
