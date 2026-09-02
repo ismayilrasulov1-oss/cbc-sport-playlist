@@ -47,5 +47,5 @@ http://stream.mcquack.net/142/index.m3u8
 http://stream.mcquack.net/130/index.m3u8
 #EXTINF:-1,Qazsport
 http://stream.mcquack.net/72/index.m3u8
-#EXTINF:-1,Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8" type="application/x-mpegURL
+#EXTINF:-1,Das Erste 
+https://raw.githubusercontent.com/ismayilrasulov1-oss/cbc-sport-playlist/main/daserste.m3u8
