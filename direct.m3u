@@ -48,4 +48,4 @@ http://stream.mcquack.net/130/index.m3u8
 #EXTINF:-1,Qazsport
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1,Das Erste 
-http://192.168.0.182:8080/stream.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
